@@ -1,0 +1,35 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #2d3c49;
+    font-weight: 300;
+}
+
+hr {
+    border-top: 3px solid;
+}
+
+.muted {
+    color: #7d97ad;
+}
+
+.main-title {
+    font-weight: 300;
+}
+
+.projects-title {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.project {
+    font-size: 1.25rem;
+    margin-bottom: 25px;
+}
+
+.project .project-name {
+    font-size: 1.5rem;
+}
+
+/*.text-regular {
+    font-weight: 400;
+}*/
